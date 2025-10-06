@@ -13,3 +13,5 @@ language it is hard to transition to all the multiple other languages that are s
 little bit of different functions, whereas rush similar to languages but then is very different on its own and has its 
 own rules and is also very hard to run in a terminal, you can get lost pretty easily if you struggle with getting lost 
 or learning how to run your project, I would suggest looking it up or asking AI for help.
+
+Youtube Video: https://www.youtube.com/watch?v=QwD1VHlI01k
